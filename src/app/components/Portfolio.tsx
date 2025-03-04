@@ -7,7 +7,7 @@ const Portfolio = () => {
       description: 'A web app built with React and Next.js.',
       image: '/images/project1.png',
       liveLink: 'https://project1.com',
-      sourceCode: 'https://github.com/project1',
+      sourceCode: 'https://github.com/Amna1993/restaurant',
     },
     {
       title: 'Project 2',
@@ -27,23 +27,10 @@ const Portfolio = () => {
       title: 'Project 4',
       description: 'A weather forecasting app using JavaScript and APIs.',
       image: '/images/project1.png',
-      liveLink: 'https://project4.com',
+      liveLink: 'https://github.com/Amna1993/note10',
       sourceCode: 'https://github.com/project4',
     },
-    {
-      title: 'Project 5',
-      description: 'A portfolio website using Next.js and Tailwind CSS.',
-      image: '/images/project3.png',
-      liveLink: 'https://project5.com',
-      sourceCode: 'https://github.com/project5',
-    },
-    {
-      title: 'Project 6',
-      description: 'A blog platform built with Gatsby and GraphQL.',
-      image: '/images/project4.png',
-      liveLink: 'https://project6.com',
-      sourceCode: 'https://github.com/project6',
-    },
+    
   ];
 
   return (
