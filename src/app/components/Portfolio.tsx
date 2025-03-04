@@ -14,7 +14,7 @@ const Portfolio = () => {
       description: 'A full-stack application using Node.js and MongoDB.',
       image: '/images/project4.png',
       liveLink: 'https://amnarestaurant.netlify.app/',
-      sourceCode: 'https://github.com/project2',
+      sourceCode: 'https://github.com/Amna1993/restaurant',
     },
     {
       title: 'Project 3',
