@@ -55,7 +55,7 @@ const About = () => {
               >
                 <SiLeetcode size={30} />
               </a>
-              <p className="text-xl font-semibold text-white">100+ Leetcode Solved</p>
+              <p className="text-xl font-semibold text-white">Leetcode</p>
             </div>
           </div>
         </div>
